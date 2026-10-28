@@ -45,9 +45,9 @@ export default function ContactInfo() {
             <FiMapPin className="text-lg" />
           </div>
           <div>
-            <h3 className="text-xs font-bold uppercase tracking-wider text-gray-900">Boutique Store</h3>
-            <p className="text-xs text-gray-600 mt-1">Shop #12, Fashion Avenue, Islamabad</p>
-            <p className="text-[11px] text-gray-400 mt-0.5">Islamabad, Pakistan</p>
+            <h3 className="text-xs font-bold uppercase tracking-wider text-gray-900">Ahmedabad Store</h3>
+            <p className="text-xs text-gray-600 mt-1">Shop #12, Fashion Avenue, Ahmedabad</p>
+            <p className="text-[11px] text-gray-400 mt-0.5">Ahmedabad, Gujarat</p>
           </div>
         </div>
 
